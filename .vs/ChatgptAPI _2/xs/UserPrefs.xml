@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{87303C4E-F940-441B-FF09-9119625E6AD4}|">
+﻿<Properties StartupConfiguration="{C87A07F7-38D4-31E7-DF93-D47F57DA5608}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChatGPTConversationMultipleQuestions.cs">
     <Files>
       <File FileName="Assets/ChatGPTConversation.cs" Line="31" Column="66" />
@@ -16,7 +16,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b1bd9dc-d3f4-44d9-8cb7-5a9545a76f94" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="330232fe-bc99-4a56-8cd7-49b1f9628f7d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
