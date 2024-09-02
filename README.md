@@ -30,3 +30,11 @@ This Unity project integrates ChatGPT using OpenAI API keys. The project include
 
    ```bash
    git clone https://github.com/jaypatel73/Unity_chatGPT_Itegration_UsingAPI.git
+   
+2. **Open in Unity**:
+
+   - Open the cloned project in Unity.
+
+3. **Add API Key**:
+
+   - Replace `API_KEY` in the scripts with your OpenAI API key.
