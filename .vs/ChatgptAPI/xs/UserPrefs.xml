@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C87A07F7-38D4-31E7-DF93-D47F57DA5608}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChatGPTConversationMultipleQuestions.cs">
+    <Files>
+      <File FileName="Assets/ChatGPTConversation.cs" Line="98" Column="1" />
+      <File FileName="Assets/InternetConnectionTest.cs" />
+      <File FileName="Assets/Scripts/OpenAIResponse.cs" />
+      <File FileName="Assets/ChatGPTConversationMultipleQuestions.cs" Line="38" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatgptAPI" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="ChatGPTConversation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3eee2e89-9936-44e3-910a-8e71f863bb60" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
